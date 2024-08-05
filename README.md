@@ -15,8 +15,6 @@ Welcome to my GitHub profile!
 
 Feel free to reach out if you have any questions, ideas, or just want to connect!
 
-![AI Image](https://pin.it/1XFVCQxs1) <!-- Optional: Add a relevant image here -->
-
 Let's connect and make some awesome projects together!
 
 
